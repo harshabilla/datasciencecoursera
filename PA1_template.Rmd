@@ -3,8 +3,8 @@ title: "Reproducible Research Project 1"
 author: "Harsha venkata sai prasad Billa"
 date: "9/24/2020"
 output:
-md_document:
-variant: md_document
+  md_document: 
+    variant: markdown_github
 ---
 
 ## Introduction
